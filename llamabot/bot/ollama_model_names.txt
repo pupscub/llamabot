@@ -1,3 +1,5 @@
+qwen3-coder-next
+glm-ocr
 kimi-k2.5
 lfm2.5-thinking
 glm-4.7-flash
