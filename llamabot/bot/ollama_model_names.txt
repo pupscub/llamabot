@@ -1,3 +1,4 @@
+nemotron-3-ultra
 lfm2.5
 minimax-m3
 mistral-medium-3.5
