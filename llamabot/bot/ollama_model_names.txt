@@ -1,3 +1,4 @@
+kimi-k2.7-code
 nemotron-3-ultra
 lfm2.5
 minimax-m3
