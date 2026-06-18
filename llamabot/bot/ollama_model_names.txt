@@ -1,3 +1,4 @@
+north-mini-code-1.0
 glm-5.2
 kimi-k2.7-code
 nemotron-3-ultra
@@ -9,8 +10,8 @@ granite4.1-guardian
 mistral-medium-3.5
 granite4.1
 nemotron3
-deepseek-v4-flash
 deepseek-v4-pro
+deepseek-v4-flash
 laguna-xs.2
 qwen3.6
 medgemma1.5
