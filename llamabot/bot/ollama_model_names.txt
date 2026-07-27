@@ -1,3 +1,4 @@
+kimi-k3
 laguna-s-2.1
 laguna-xs-2.1
 ornith
@@ -39,8 +40,8 @@ olmo-3.1
 nemotron-3-nano
 olmo-3
 nomic-embed-text-v2-moe
-devstral-small-2
 rnj-1
+devstral-small-2
 devstral-2
 ministral-3
 mistral-large-3
