@@ -28,9 +28,7 @@ gemma4
 lfm2
 nemotron-3-super
 qwen3.5
-minimax-m2.5
 glm-ocr
-kimi-k2.5
 lfm2.5-thinking
 glm-4.7-flash
 translategemma
@@ -43,8 +41,8 @@ nomic-embed-text-v2-moe
 rnj-1
 devstral-small-2
 devstral-2
-ministral-3
 mistral-large-3
+ministral-3
 deepseek-ocr
 cogito-2.1
 gpt-oss-safeguard
