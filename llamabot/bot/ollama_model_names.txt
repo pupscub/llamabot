@@ -32,14 +32,13 @@ glm-ocr
 lfm2.5-thinking
 glm-4.7-flash
 translategemma
-gemini-3-flash-preview
 functiongemma
 olmo-3.1
 nemotron-3-nano
 olmo-3
 nomic-embed-text-v2-moe
-rnj-1
 devstral-small-2
+rnj-1
 devstral-2
 mistral-large-3
 ministral-3
