@@ -1,3 +1,4 @@
+muse-glimmer
 kimi-k3
 laguna-s-2.1
 laguna-xs-2.1
@@ -14,8 +15,8 @@ granite4.1-guardian
 mistral-medium-3.5
 granite4.1
 nemotron3
-deepseek-v4-pro
 deepseek-v4-flash
+deepseek-v4-pro
 laguna-xs.2
 qwen3.6
 medgemma1.5
@@ -37,8 +38,8 @@ olmo-3.1
 nemotron-3-nano
 olmo-3
 nomic-embed-text-v2-moe
-devstral-small-2
 rnj-1
+devstral-small-2
 devstral-2
 mistral-large-3
 ministral-3
