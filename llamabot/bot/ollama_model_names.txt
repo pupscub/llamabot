@@ -1,3 +1,4 @@
+qwen3.8
 nemotron-3.5-lightning
 muse-glimmer
 kimi-k3
@@ -39,11 +40,11 @@ olmo-3.1
 nemotron-3-nano
 olmo-3
 nomic-embed-text-v2-moe
-devstral-small-2
 rnj-1
+devstral-small-2
 devstral-2
-ministral-3
 mistral-large-3
+ministral-3
 deepseek-ocr
 cogito-2.1
 gpt-oss-safeguard
