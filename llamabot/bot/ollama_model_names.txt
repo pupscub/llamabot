@@ -1,4 +1,5 @@
 ornith-1.5
+granite4.2
 qwen3.8
 nemotron-3.5-lightning
 muse-glimmer
@@ -18,8 +19,8 @@ granite4.1-guardian
 mistral-medium-3.5
 granite4.1
 nemotron3
-deepseek-v4-pro
 deepseek-v4-flash
+deepseek-v4-pro
 laguna-xs.2
 qwen3.6
 medgemma1.5
