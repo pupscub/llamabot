@@ -1,3 +1,5 @@
+qwen3.8-flash-next
+glm-5.3-flash
 ornith-1.5
 granite4.2
 qwen3.8
@@ -19,8 +21,8 @@ granite4.1-guardian
 mistral-medium-3.5
 granite4.1
 nemotron3
-deepseek-v4-flash
 deepseek-v4-pro
+deepseek-v4-flash
 laguna-xs.2
 qwen3.6
 medgemma1.5
@@ -45,8 +47,8 @@ nomic-embed-text-v2-moe
 rnj-1
 devstral-small-2
 devstral-2
-ministral-3
 mistral-large-3
+ministral-3
 deepseek-ocr
 cogito-2.1
 gpt-oss-safeguard
