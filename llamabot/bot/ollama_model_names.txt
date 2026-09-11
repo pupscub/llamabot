@@ -1,3 +1,4 @@
+deepseek-v4.1-flash
 qwen3.8-flash-next
 glm-5.3-flash
 ornith-1.5
