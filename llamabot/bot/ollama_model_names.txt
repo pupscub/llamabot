@@ -1,3 +1,5 @@
+tev1
+nimble
 deepseek-v4.1-flash
 qwen3.8-flash-next
 glm-5.3-flash
