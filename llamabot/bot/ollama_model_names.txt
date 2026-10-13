@@ -1,5 +1,8 @@
+kev
+nimble-v3
 mistral-large-4
 embeddinggemma-2
+strands-decider
 clef-flash
 clef
 laya
@@ -51,8 +54,8 @@ olmo-3.1
 nemotron-3-nano
 olmo-3
 nomic-embed-text-v2-moe
-rnj-1
 devstral-small-2
+rnj-1
 devstral-2
 ministral-3
 mistral-large-3
