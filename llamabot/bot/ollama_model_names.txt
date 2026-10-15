@@ -1,5 +1,8 @@
+pplx-decider
+d1
 kev
 nimble-v3
+nemotron-3.5-bolt
 mistral-large-4
 embeddinggemma-2
 strands-decider
@@ -8,6 +11,7 @@ clef
 laya
 tev1
 nimble
+nemotron-3.5-super
 deepseek-v4.1-flash
 qwen3.8-flash-next
 glm-5.3-flash
@@ -54,8 +58,8 @@ olmo-3.1
 nemotron-3-nano
 olmo-3
 nomic-embed-text-v2-moe
-devstral-small-2
 rnj-1
+devstral-small-2
 devstral-2
 ministral-3
 mistral-large-3
