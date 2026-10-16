@@ -1,3 +1,6 @@
+bonsai-2
+beam
+muse-spark-open
 pplx-decider
 d1
 kev
@@ -61,8 +64,8 @@ nomic-embed-text-v2-moe
 rnj-1
 devstral-small-2
 devstral-2
-ministral-3
 mistral-large-3
+ministral-3
 deepseek-ocr
 cogito-2.1
 gpt-oss-safeguard
