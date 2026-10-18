@@ -1,3 +1,4 @@
+d1-omni
 bonsai-2
 beam
 muse-spark-open
