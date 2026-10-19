@@ -1,3 +1,4 @@
+minimax-m3.1-flash
 d1-omni
 bonsai-2
 beam
@@ -65,8 +66,8 @@ nomic-embed-text-v2-moe
 rnj-1
 devstral-small-2
 devstral-2
-mistral-large-3
 ministral-3
+mistral-large-3
 deepseek-ocr
 cogito-2.1
 gpt-oss-safeguard
