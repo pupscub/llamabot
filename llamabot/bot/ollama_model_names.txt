@@ -1,3 +1,7 @@
+lfm3
+lfm3-audio
+lfm3-omni
+lfm3-vl
 d3
 phonon
 minimax-m3.1-flash
